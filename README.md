@@ -4,8 +4,7 @@ Repo to provide a file compatible with AdguardHome that can be imported as a DNS
 
 The purpose of this file is to block LG urls that provides LG TVs firmware updates.
 
-## URL list
-
+## Blocked URLs
 ```
 snu.lge.com
 su.lge.com
