@@ -1,1 +1,1 @@
-# LGTV-DisableUpdates-AdguardHome-Blocklist
+# LGTV-UpdateBlocker-AdguardHome-DnsBlocklist
