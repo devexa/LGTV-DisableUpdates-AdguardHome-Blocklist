@@ -13,4 +13,12 @@ snu-ssl.lge.com
 snu-dev.lge.com
 su-dev.lge.com
 nsu.lge.com
+cdpbeacon.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+homeprv.lgtvcommon.com
+nudge.lgtvcommon.com
+rdl.lgtvcommon.com
+recommend.lgtvcommon.com
+lgsmartad.com
+service.lgtvcommon.com //Breaks Accuweather but blocks LG recommendations
 ```
